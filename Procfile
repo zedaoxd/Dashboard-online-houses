@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run exemplo_06_dashboard.py
